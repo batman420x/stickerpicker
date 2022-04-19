@@ -5,7 +5,8 @@
     "frenworld.json",
     "ReinerWongl.json",
     "Neuschwabenland.json",
-    "vsrpron.json"
+    "vsrpron.json",
+    "StickerGans.json"
   ],
   "homeserver_url": "https://matrix.batcave420.de"
 }
