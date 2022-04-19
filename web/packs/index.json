@@ -1,6 +1,11 @@
 {
   "packs": [
-    "DieRitters.json"
+    "DieRitters.json",
+    "rektapes.json",
+    "frenworld.json",
+    "ReinerWongl.json",
+    "Neuschwabenland.json",
+    "vsrpron.json"
   ],
   "homeserver_url": "https://matrix.batcave420.de"
 }
